@@ -1,6 +1,7 @@
 /* Universal Style */
 html {
     background-color: black;
+    font-family: Verdana;
 }
 
 /* Header */
@@ -16,6 +17,12 @@ h1 {
     color: white;
     text-align: center;
 }
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
 
 /* Section */
 
