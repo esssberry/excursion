@@ -1,16 +1,20 @@
 /* Universal Style */
 html {
-
+    background-color: black;
 }
 
 /* Header */
-header {
 
-}
 
 /* Nav */
-nav {
 
+/* Main */
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
 }
 
 /* Section */
